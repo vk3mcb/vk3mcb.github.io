@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: An amateur radio operator in VK3
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Daryl VK3MCB. I'm interested in vehicle-portable operations with weak-signal digital modes on HF, VHF, UHF, and microwave (23cm). I enjoy JS8 for a QSO with a bit more exchange, but the popularity of FT8 does help with getting the contact numbers above the threshold for a WWFF park activation. QTH is QF22go. 
