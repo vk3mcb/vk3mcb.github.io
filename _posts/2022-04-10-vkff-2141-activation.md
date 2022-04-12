@@ -30,11 +30,15 @@ My Spiderbeam 10m aluminium telescopic mast and tripod are pretty heavy but I re
   <figcaption>The IC-7300 and MacBook for digital modes.</figcaption>
 </figure>
 
-I had trouble self-spotting; I could see updates on the Parks & Peaks (PnP) spot page but I couldn't add a spot myself due to poor coverage of the mobile data network at that location. My first JS8 contact was with Alan VK2MET on 40m who kindly offered to spot me on PnP and POTA. After that I had a couple more QSOs with JS8 followed by some with FT8.
+I had trouble self-spotting; I could see updates on the Parks & Peaks (PnP) spot page but I couldn't add a spot myself due to poor coverage of the mobile data network at that location. My first JS8 contact was with Alan VK2MET on 40m who kindly offered to spot me on PnP and POTA. After that I had a couple more QSOs with JS8 followed by some with FT8 to make a total of 15 QSOs and my first successful activation.
 
 <figure>
   <img src="/assets/img/2022-04-10-qso-log.png" alt="qso log"/>
   <figcaption>The QSO log for the activation.</figcaption>
 </figure>
 
-An activation isn't possible with the chasers and spotters, so thank you to them.
+JS8Call is great for an exchange with a bit more information than the minimalist QSO that's possible with FT8. Alan VK2MET let me know that he added a spot for me, and I was able to let contacts know a bit of information about where I was and the setup I was using. It makes for a more enjoyable interaction.
+
+Before my next activation attempt I'll sort out my self-spotting system for when I'm off the mobile data grid. I'll talk about that in the next post.
+
+An activation isn't possible with the chasers and spotters, so my thanks to them.
