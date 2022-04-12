@@ -11,6 +11,11 @@ comments: true
 
 The Metcalfe Nature Conservation Reserve is a 20-minute drive north from Kyneton in Victoria. Having turned off the road into Metcalfe, the track leads along a ridge that gives good elevation at 530m ASL and nice views to the south-west.
 
+<figure>
+  <img src="/assets/img/metcalfe-map.png" alt="map"/>
+  <figcaption>The Metcalfe Nature Conservation Reserve is located to the north of Kyneton.</figcaption>
+</figure>
+
 ![Map](/assets/img/metcalfe-map.png)
 
 There aren't many places to pull off the track and set up but there are a couple with not too many overhanging trees or branches that might interfere with an antenna. I settled on one near the top of the ridge.
@@ -30,7 +35,7 @@ My Spiderbeam 10m aluminium telescopic mast and tripod are pretty heavy but I re
 I had trouble self-spotting; I could see updates on the Parks & Peaks (PnP) spot page but I couldn't add a spot myself dur to poor coverage of the mobile data network at that location. My first JS8 contact was with Alan VK2MET on 40m who kindly offered to spot me on PnP and POTA. After that I had a couple more QSOs with JS8 followed by some with FT8.
 
 <figure>
-  <img src="/assets/img/2022-04-10-qso-log.png" alt="radio"/>
+  <img src="/assets/img/2022-04-10-qso-log.png" alt="qso log"/>
   <figcaption>The QSO log for the activation.</figcaption>
 </figure>
 
