@@ -16,8 +16,6 @@ The Metcalfe Nature Conservation Reserve is a 20-minute drive north from Kyneton
   <figcaption>The Metcalfe Nature Conservation Reserve is located to the north of Kyneton.</figcaption>
 </figure>
 
-![Map](/assets/img/metcalfe-map.png)
-
 There aren't many places to pull off the track and set up but there are a couple with not too many overhanging trees or branches that might interfere with an antenna. I settled on one near the top of the ridge.
 
 <figure>
@@ -39,4 +37,4 @@ I had trouble self-spotting; I could see updates on the Parks & Peaks (PnP) spot
   <figcaption>The QSO log for the activation.</figcaption>
 </figure>
 
-An activation is not possible with the chasers and spotters, so thank you to them.
+An activation isn't possible with the chasers and spotters, so thank you to them.
