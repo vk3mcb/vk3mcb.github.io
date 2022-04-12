@@ -30,7 +30,7 @@ My Spiderbeam 10m aluminium telescopic mast and tripod are pretty heavy but I re
   <figcaption>The IC-7300 and MacBook for digital modes.</figcaption>
 </figure>
 
-I had trouble self-spotting; I could see updates on the Parks & Peaks (PnP) spot page but I couldn't add a spot myself dur to poor coverage of the mobile data network at that location. My first JS8 contact was with Alan VK2MET on 40m who kindly offered to spot me on PnP and POTA. After that I had a couple more QSOs with JS8 followed by some with FT8.
+I had trouble self-spotting; I could see updates on the Parks & Peaks (PnP) spot page but I couldn't add a spot myself due to poor coverage of the mobile data network at that location. My first JS8 contact was with Alan VK2MET on 40m who kindly offered to spot me on PnP and POTA. After that I had a couple more QSOs with JS8 followed by some with FT8.
 
 <figure>
   <img src="/assets/img/2022-04-10-qso-log.png" alt="qso log"/>
