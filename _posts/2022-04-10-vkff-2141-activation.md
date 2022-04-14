@@ -41,4 +41,4 @@ JS8Call is great for an exchange with a bit more information than the minimalist
 
 Before my next activation attempt I'll sort out my self-spotting system for when I'm off the mobile data grid. I'll talk about that in the next post.
 
-An activation isn't possible with the chasers and spotters, so my thanks to them.
+An activation is only possible with participation of the chasers and spotters; many thanks to them.
